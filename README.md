@@ -41,8 +41,12 @@ Or just visit the live link below.
 
 ## Screenshots
 
-*(Uploading soon — desktop, tablet, mobile)*
+### Tablet View
+![Tablet](tablet.png)
 
----
+### Mobile View
+![Mobile](mobile.png)
 
+> Desktop view is live at the link above — tested and responsive across all breakpoints.
+> 
 Built by a student who was tired of pretending to be organized.
